@@ -7,7 +7,7 @@
 
 ![알고리즘](https://blog.kakaocdn.net/dn/RwOmj/btqE1D53GMm/E9oIdK8kjSV091526hfjS0/img.jpg)
 
-<알고리즘의 물리적 표현>
+<알고리즘의 >
 
 ### 컴퓨팅 사고
 
